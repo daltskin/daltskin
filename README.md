@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/daltskin/daltskin/master/JamieD.gif"/>
+<img src="https://raw.githubusercontent.com/daltskin/daltskin/master/JamieD.gif" width="360px" height="202px"/>
 
 Hey!  I work as a Technical Program Manager within **Microsoft's Commercial Software Engineering organization**, helping customers and partners develop solutions based on the Microsoft Azure platform. I’m as old as I look, with over 20 years’ experience as a Microsoft software developer. I’m passionate about the Intelligent Cloud and creating new experiences using a range of Microsoft technologies. I have a degree from the university of life and once read some books (I also have a real degree).
 
